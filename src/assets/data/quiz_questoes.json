@@ -1,0 +1,373 @@
+{
+    "titulo": "Qual personagem de Rick and Morty você é?",
+    "questoes": [
+        {
+            "id": 1,
+            "questao": "Qual sua comida favorita?",
+            "opcoes": [
+                {
+                    "id": 1,
+                    "name": "Pizza",
+                    "alias": "6"
+                },
+                {
+                    "id": 2,
+                    "name": "Sorvete",
+                    "alias": "4"
+                },
+                {
+                    "id": 3,
+                    "name": "Chocolate",
+                    "alias": "5"
+                },
+                {
+                    "id": 4,
+                    "name": "Cheeseburgers",
+                    "alias": "2"
+                },
+                {
+                    "id": 5,
+                    "name": "Bacon",
+                    "alias": "1"
+                },
+                {
+                    "id": 5,
+                    "name": "Enchiladas",
+                    "alias": "3"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "questao": "O que você faz para se divertir?",
+            "opcoes": [
+                {
+                    "id": 1,
+                    "name": "Jogar no meu telefone",
+                    "alias": "2"
+                },
+                {
+                    "id": 2,
+                    "name": "Trabalhos manuais",
+                    "alias": "3"
+                },
+                {
+                    "id": 3,
+                    "name": "Merda estúpida",
+                    "alias": "1"
+                },
+                {
+                    "id": 4,
+                    "name": "estar com a família",
+                    "alias": "4"
+                },
+                {
+                    "id": 5,
+                    "name": "Sair com os amigos",
+                    "alias": "5"
+                },
+                {
+                    "id": 5,
+                    "name": "assistir rick e morty",
+                    "alias": "6"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "questao": "O que você faria se seus amigos começassem a brigar?",
+            "opcoes": [
+                {
+                    "id": 1,
+                    "name": "Grave o drama para que todos possam testemunhar",
+                    "alias": "2"
+                },
+                {
+                    "id": 2,
+                    "name": "Pegue uma pipoca e assista",
+                    "alias": "1"
+                },
+                {
+                    "id": 3,
+                    "name": "Evite interferir a todo custo",
+                    "alias": "3"
+                },
+                {
+                    "id": 4,
+                    "name": "Do lado de quem eu mais gosto",
+                    "alias": "5"
+                },
+                {
+                    "id": 5,
+                    "name": "Ouça os dois lados e fique do lado de quem eu concordo",
+                    "alias": "4"
+                },
+                {
+                    "id": 5,
+                    "name": "Tente acalmar todos",
+                    "alias": "6"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "questao": "Quais são seus pensamentos sobre ciência?",
+            "opcoes": [
+                {
+                    "id": 1,
+                    "name": "é um absurdo",
+                    "alias": "3"
+                },
+                {
+                    "id": 2,
+                    "name": "É fascinante",
+                    "alias": "2"
+                },
+                {
+                    "id": 3,
+                    "name": "É muito legal",
+                    "alias": "5"
+                },
+                {
+                    "id": 4,
+                    "name": "eu realmente não entendo",
+                    "alias": "4"
+                },
+                {
+                    "id": 5,
+                    "name": "É a única coisa em que coloco fé",
+                    "alias": "1"
+                },
+                {
+                    "id": 5,
+                    "name": "É importante",
+                    "alias": "6"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "questao": "E a religião?",
+            "opcoes": [
+                {
+                    "id": 1,
+                    "name": "É besteira projetada para fazer lavagem cerebral no sheeple",
+                    "alias": "1"
+                },
+                {
+                    "id": 2,
+                    "name": "Não é realmente minha coisa",
+                    "alias": "2"
+                },
+                {
+                    "id": 3,
+                    "name": "Acho que todos nós poderíamos nos beneficiar disso",
+                    "alias": "5"
+                },
+                {
+                    "id": 4,
+                    "name": "Eu realmente não quero ser político aqui, ok?",
+                    "alias": "4"
+                },
+                {
+                    "id": 5,
+                    "name": "Por que você quer saber?",
+                    "alias": "3"
+                },
+                {
+                    "id": 5,
+                    "name": "Eu respeito as crenças de todos",
+                    "alias": "6"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "questao": "Como está sua vida amorosa?",
+            "opcoes": [
+                {
+                    "id": 1,
+                    "name": "Isso não é da sua conta",
+                    "alias": "1"
+                },
+                {
+                    "id": 2,
+                    "name": "Amor é besteira",
+                    "alias": "5"
+                },
+                {
+                    "id": 3,
+                    "name": "Estou solteiro e pronto para me misturar",
+                    "alias": "6"
+                },
+                {
+                    "id": 4,
+                    "name": "estou em um relacionamento feliz",
+                    "alias": "3"
+                },
+                {
+                    "id": 5,
+                    "name": "Eu tenho uma queda, mas eles nunca vão gostar de mim de volta",
+                    "alias": "2"
+                },
+                {
+                    "id": 5,
+                    "name": "Estou em um relacionamento, mas quero terminar",
+                    "alias": "4"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "questao": "Plutão é um planeta?",
+            "opcoes": [
+                {
+                    "id": 1,
+                    "name": "Sim, duh",
+                    "alias": "1"
+                },
+                {
+                    "id": 2,
+                    "name": "é um planeta anão",
+                    "alias": "2"
+                },
+                {
+                    "id": 3,
+                    "name": "É importante reconhecermos que - planeta ou não - Plutão está encolhendo",
+                    "alias": "4"
+                },
+                {
+                    "id": 4,
+                    "name": "Não",
+                    "alias": "3"
+                },
+                {
+                    "id": 5,
+                    "name": "Eu acho? Quer dizer, eu realmente não me importo",
+                    "alias": "5"
+                },
+                {
+                    "id": 5,
+                    "name": "Wowie, eu não tenho absolutamente nenhuma pista",
+                    "alias": "6"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "questao": "Como você se sente em relação à escola?",
+            "opcoes": [
+                {
+                    "id": 1,
+                    "name": "É importante ir à escola e tirar boas notas",
+                    "alias": "4"
+                },
+                {
+                    "id": 2,
+                    "name": "Eu só vou lá para ver meus amigos",
+                    "alias": "5"
+                },
+                {
+                    "id": 3,
+                    "name": "É uma perda de tempo",
+                    "alias": "1"
+                },
+                {
+                    "id": 4,
+                    "name": "Aprender é importante",
+                    "alias": "6"
+                },
+                {
+                    "id": 5,
+                    "name": "Eu não posso matar aula de novo ou eles vão contar aos meus pais",
+                    "alias": "2"
+                },
+                {
+                    "id": 5,
+                    "name": "Eu odeio isso porque todo mundo sempre tem maldade",
+                    "alias": "3"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "questao": "O que é mais importante para você?",
+            "opcoes": [
+                {
+                    "id": 1,
+                    "name": "Rick e Morty",
+                    "alias": "1"
+                },
+                {
+                    "id": 2,
+                    "name": "Romance",
+                    "alias": "5"
+                },
+                {
+                    "id": 3,
+                    "name": "Inteligência",
+                    "alias": "6"
+                },
+                {
+                    "id": 4,
+                    "name": "Gentileza",
+                    "alias": "3"
+                },
+                {
+                    "id": 5,
+                    "name": "Dinheiro",
+                    "alias": "2"
+                },
+                {
+                    "id": 5,
+                    "name": "Família",
+                    "alias": "4"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "questao": "Qual é a sua melhor qualidade?",
+            "opcoes": [
+                {
+                    "id": 1,
+                    "name": "Inteligente",
+                    "alias": "1"
+                },
+                {
+                    "id": 2,
+                    "name": "Racional",
+                    "alias": "4"
+                },
+                {
+                    "id": 3,
+                    "name": "Leal",
+                    "alias": "2"
+                },
+                {
+                    "id": 4,
+                    "name": "Fofa",
+                    "alias": "5"
+                },
+                {
+                    "id": 5,
+                    "name": "Criativo",
+                    "alias": "6"
+                },
+                {
+                    "id": 5,
+                    "name": "Engraçado",
+                    "alias": "3"
+                }
+            ]
+        }
+    ],
+    "resultados": {
+        "1": "Parabéns, você é Rick Sanchez! Um dos dois personagens principais da série, você é um cientista maluco que também é um alcoólatra maluco! Você é um gênio delirante ou apenas louco? Quem pode dizer?",
+        "2": "Parabéns, você é Morty Smith! Um dos dois personagens principais do show, você é um adolescente cujo único objetivo é ser um ajudante de Rick. Você também é tão burro quanto eles. Oof.",
+        "3": "Eca, você é Jerry Smith. Você é o personagem mais chato de toda a série e todo mundo te odeia. Vá para casa, Jerry.",
+        "4": "Parabéns, você é Beth Smith! Você é um cirurgião cardíaco (para cavalos). Você está em um casamento infeliz com Jerry Smith, com quem teve dois filhos. Rick é seu pai e deixou você com problemas desenfreados com o pai.",
+        "5": "Parabéns, você é Summer Smith! Você parece uma adolescente perfeitamente mediana por fora, mas quando as pessoas te conhecem, logo descobrem que você é exatamente o oposto de frio.",
+        "6": "Parabéns, você é o Sr. Poopy Butthole! Mesmo sendo um personagem gag, você é indiscutivelmente o membro mais são de toda a família, exceto quando se trata de Rick e Morty. Você é um grande fã."
+    }
+}

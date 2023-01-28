@@ -1,0 +1,18 @@
+<div class="container">
+    <div class="logo">
+        <img src="assets/imgs/Rick-And-Morty-Logo.png" alt="" height="150">
+        <h3>{{ titulo }}</h3>
+    </div>
+    <div *ngIf=!finalizado class="questoes">
+        <h3>{{questaoSelecionada.questao}}</h3>
+    </div>
+    <div *ngIf=!finalizado class="opcoes">
+        <button *ngFor="let opcao of questaoSelecionada.opcoes; let i = index" (click)="playerChoose(opcao.alias)" class="btn-option">
+            {{opcao.name}}
+        </button>
+    </div>
+    <div *ngIf=finalizado class="resultado">
+        <h1>Você é o:</h1>
+        <p>{{ respostaSelecionada }}</p>
+    </div>
+</div>
